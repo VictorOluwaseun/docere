@@ -9,7 +9,7 @@
     "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/app.js\""
   },
   "repository": "https://github.com/VictorOluwaseun/docere.git",
-  "author": "Victor <victoradeadewumi@gmail.com>",
+  "author": "Victor <victoradeadewumi@gmail.com>, Johnbosco",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.1",
